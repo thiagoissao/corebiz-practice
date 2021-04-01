@@ -1,0 +1,8 @@
+.List-product {
+  display: flex;
+  justify-content: center;
+}
+
+.List-product-item {
+  margin: 0px 4px;
+}
